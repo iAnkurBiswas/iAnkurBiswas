@@ -22,7 +22,7 @@
 	</p>
 </div>
 
-My name is **Ankur Biswas**, I'm a web developer and a tech consultant from *Kolkata, India*. I specialised in *Full-stack*, *cloud computing* and *DevOps*. My current goal is to be an **Entrepreneur**.
+My name is **Ankur Biswas**, I'm a web developer and a tech enthusiast from *Kolkata, India*. I specialised in *Full-stack*, *cloud computing* and *DevOps*. My current goal is to be an **Entrepreneur**.
 
 Tools that I most use on a daily basis: Angular, Ionic, NodeJS, ExpressJS, Firebase, Python, HTML5/CSS3, AWS, DigitalOcean.
 
