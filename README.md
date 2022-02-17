@@ -3,23 +3,6 @@
 		<img src="https://github.com/iAnkurBiswas/iAnkurBiswas/blob/main/assets/Hi.gif" width="30px">
 		Hello World! Ankur here
 	</h2>
-	<p align="center"> 
-		<a href="https://twitter.com/iAnkurBiswas" style="margin-left: 100px">
-			<img alt="followers" title="Follow me on Twitter" src="https://image.flaticon.com/icons/png/128/1384/1384033.png" width="30px" />
-		</a>
-		&nbsp;&nbsp;&nbsp;
-		<a href="https://instagram.com/iAnkurBiswas">
-			<img alt="followers" title="Follow me on Instagram" src="https://image.flaticon.com/icons/png/512/1384/1384031.png" width="30px" />
-		</a>
-		&nbsp;&nbsp;&nbsp;
-		<a href="https://www.linkedin.com/in/iankurbiswas/">
-			<img alt="followers" title="Follow me on LinkedIn" src="https://image.flaticon.com/icons/png/128/1384/1384030.png" width="30px" />
-		</a>
-		&nbsp;&nbsp;&nbsp;
-		<a href="https://github.com/iAnkurBiswas">
-			<img alt="followers" title="Follow me on Github" src="https://image.flaticon.com/icons/png/512/25/25657.png" width="30px" />
-		</a>
-	</p>
 </div>
 
 My name is **Ankur Biswas**, I'm a web developer and a tech enthusiast from *Kolkata, India*. I specialised in *Full-stack*, *cloud computing* and *DevOps*. My current goal is to be an **Entrepreneur**.
